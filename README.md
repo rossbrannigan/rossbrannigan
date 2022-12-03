@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rossbrannigan
-- 👀 I’m interested in travel, aviation, ecommerce, digital strategy, fintech, web3
+- 👀 I’m interested in travel, aviation, ecommerce, digital strategy, fintech, blockchain
 - 📫 How to reach me [email: rossbrannigan@gmail.com]
 
 <!---
