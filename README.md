@@ -10,14 +10,18 @@ I'm a results-driven leader with extensive experience in eCommerce, Digital Prod
 - 🌱 I’m currently learning more about AI for business and blockchain strategy.
 - 👯 I’m looking to collaborate on projects related to AI, data analytics, and digital transformation.
 - 💬 Ask me about product management, digital marketing strategy, and cross-functional leadership.
-- 📫 How to reach me: rossbrannigan@gmail.com
+- 📫 How to reach me: rossbrannigan@gmail.com or ross@alphadigitalgroup.co
+- 📱 WhatsApp: 00 66 82 836 2713
+- 🌐 Website: [rossbrannigan.co](https://rossbrannigan.co)
 - ⚡ Fun fact: I am an avid runner, sports & health enthusiast, and passionate about traveling and learning new languages.
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -25,6 +29,8 @@ I'm a results-driven leader with extensive experience in eCommerce, Digital Prod
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![Contentful](https://img.shields.io/badge/-Contentful-333333?style=flat&logo=contentful)
 
 ## 📈 GitHub Stats
 
@@ -32,8 +38,8 @@ I'm a results-driven leader with extensive experience in eCommerce, Digital Prod
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossbrannigan&repo=your-repo-1&theme=radical)](https://github.com/rossbrannigan/your-repo-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossbrannigan&repo=your-repo-2&theme=radical)](https://github.com/rossbrannigan/your-repo-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossbrannigan&repo=alphadigitalgroup&theme=radical)](https://github.com/rossbrannigan/alphadigitalgroup)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossbrannigan&repo=airconnect&theme=radical)](https://github.com/rossbrannigan/airconnect)
 
 ## 💼 Professional Experience
 
@@ -41,12 +47,6 @@ I'm a results-driven leader with extensive experience in eCommerce, Digital Prod
 **Founder - Business & Product Development**  
 October 2020 – Present
 - Providing digital commerce & commercial aviation strategy as a consultancy service.
-
-### Dohop (Travel Technology) | Bangkok, Thailand
-**Partner Success Manager Asia**  
-June 2023 – March 2024
-- Optimized performance of existing partners significantly.
-- Accelerated growth of Thai VietJet in the Thai market by over 500% in just 6 months.
 
 ### Hans Airways (Airline) | Phuket, Thailand
 **Head of Marketing & Digital Strategy**  
@@ -149,9 +149,4 @@ December 2006 – September 2009
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ross-brannigan)](https://www.linkedin.com/in/ross-brannigan)
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rossbrannigan)](https://twitter.com/rossbrannigan)
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white&link=https://rossbrannigan.com)](https://rossbrannigan.com)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white&link=mailto:rossbrannigan@gmail.com)](mailto:rossbrannigan@gmail.com)
-
----
-
-⭐️ From [rossbrannigan](https://github.com/rossbrannigan)
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white&link=https://rossbrannigan.co)](https://rossbrannigan.co)
