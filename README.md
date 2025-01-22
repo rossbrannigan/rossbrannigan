@@ -1,7 +1,7 @@
 Hi, I’m Ross Brannigan! 👋
 
 🚀 About Me
-I’m a results-driven professional with extensive experience in product development, commercial strategy, and market expansion across industries like aviation, digital commerce, and technology.
+I’m a results-driven professional with extensive experience in marketing strategy, product development, commercial strategy, and market expansion across industries like aviation, digital commerce, and technology.
 
 Over the years, I’ve worked with global brands like Etihad Airways, Facebook, and Groupon, as well as startups and scale-ups, where I’ve contributed to building innovative products, expanding markets, and driving revenue growth.
 
